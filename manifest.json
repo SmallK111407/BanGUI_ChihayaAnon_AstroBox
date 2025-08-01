@@ -1,0 +1,23 @@
+{
+  "item": {
+    "name": "BanGUI 千早爱音",
+    "description": "在手环上每天都能看见来自MyGO!!!!!的千早爱音！",
+    "preview": [
+      "preview.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/SmallK111407/BanGUI_ChihayaAnon_AstroBox",
+    "author": [
+      {
+        "name": "曉K",
+        "author_url": "https://github.com/SmallK111407"
+      }
+    ]
+  },
+  "downloads": {
+    "o66": {
+      "version": "1.0.0",
+      "file_name": "BanGUI_千早爱音_PREVIEW_V1.0.0.bin"
+    }
+  }
+}
